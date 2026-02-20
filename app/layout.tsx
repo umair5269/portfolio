@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: "Umair | Full Stack MERN Developer",
     description:
       "Full-Stack MERN Developer specializing in scalable web applications.",
-    url: "https://yourdomain.vercel.app",
+    url: "https://portfolio-eight-sage-56.vercel.app/",
     siteName: "Umair Portfolio",
     images: [
       {
