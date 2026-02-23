@@ -56,12 +56,9 @@ export default function Contact() {
           >
             GitHub
           </a>
-          <a
-            href="tel:+923001234567"
-            className="px-6 py-3 border border-gray-700 hover:border-gray-500 rounded-lg transition"
-          >
-            Call Me
-          </a>
+          <span className="px-6 py-3 border border-gray-700 rounded-lg flex items-center justify-center">
+            Call me: +92 302 2252266
+          </span>
         </motion.div>
       </div>
     </section>

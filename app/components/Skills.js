@@ -3,9 +3,9 @@
 import { motion } from "framer-motion";
 
 const skills = {
-  Frontend: ["Next.js", "React", "JavaScript", "Tailwind CSS"],
+  Frontend: ["Next.js", "React", "JavaScript", "Tailwind CSS", "Bootstrap"],
   Backend: ["Node.js", "MongoDB", "Mongoose", "REST APIs"],
-  Tools: ["Git", "Vercel", "Stripe", "JWT/Auth"],
+  Tools: ["Git", "Vercel", "Stripe", "JWT/Auth", "Postman", "Firebase"],
 };
 
 export default function Skills() {
