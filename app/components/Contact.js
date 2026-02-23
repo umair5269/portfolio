@@ -4,10 +4,7 @@ import { motion } from "framer-motion";
 
 export default function Contact() {
   return (
-    <section
-      id="contact"
-      className="py-24 px-6 border-t border-gray-800"
-    >
+    <section id="contact" className="py-24 px-6 border-t border-gray-800">
       <div className="max-w-4xl mx-auto text-center">
         <motion.h2
           initial={{ opacity: 0, y: 40 }}
@@ -26,8 +23,8 @@ export default function Contact() {
           viewport={{ once: true }}
           className="mt-6 text-gray-400 text-lg"
         >
-          I'm currently open to full-stack and MERN stack opportunities.
-          If you're hiring or have a project in mind, feel free to reach out.
+          I'm currently open to full-stack and MERN stack opportunities. If
+          you're hiring or have a project in mind, feel free to reach out.
         </motion.p>
 
         <motion.div
@@ -58,6 +55,12 @@ export default function Contact() {
             className="px-6 py-3 border border-gray-700 hover:border-gray-500 rounded-lg transition"
           >
             GitHub
+          </a>
+          <a
+            href="tel:+923001234567"
+            className="px-6 py-3 border border-gray-700 hover:border-gray-500 rounded-lg transition"
+          >
+            Call Me
           </a>
         </motion.div>
       </div>
