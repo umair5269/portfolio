@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     siteName: "Umair Portfolio",
     images: [
       {
-        url: "/og-image.png",
+        url: "https://portfolio-eight-sage-56.vercel.app/og-image.png",
         width: 1200,
         height: 630,
       },
